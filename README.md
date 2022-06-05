@@ -2,7 +2,7 @@
 - 👀 I’m interested in Brazilian Jiu Jitsu
 - 🌱 I’m currently learning Python 3
 - 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me (PM)
+- 📫 How to reach me (email: tsharav@gmail.com)
 
 <!---
 Tsharav/Tsharav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
